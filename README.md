@@ -1,6 +1,6 @@
 # Project Description
 
-A. How to use this tool? <br />
+A. How to use this tool?(Need to build the project first) <br />
 1. Open terminal and enter the root of the project; 
 2. Enter the following bash code:<br />
 if [ -f "compile.sh" ]; then
