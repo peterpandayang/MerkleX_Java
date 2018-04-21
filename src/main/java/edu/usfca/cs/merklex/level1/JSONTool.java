@@ -1,5 +1,8 @@
 package edu.usfca.cs.merklex.level1;
 
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+
 import java.io.File;
 import java.util.Scanner;
 
@@ -34,8 +37,13 @@ public class JSONTool {
             }
 
             // try to query...
-
+            queryData(file, query);
         }
+    }
+
+    private static void queryData(File file, String query){
+        JSONParser parser = new JSONParser();
+        JSONObject jsonObject = null;
     }
 
 }
