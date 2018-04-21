@@ -1,0 +1,1 @@
+{ "foo": { "nested": "runner", "beans": [1,2,3] }, "test": [ { "query": "8" }, { "query": "9" } ] }
