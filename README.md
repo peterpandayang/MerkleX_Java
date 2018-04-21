@@ -10,6 +10,6 @@ fi
 
 
 Tips:
-Since this is maven project, you can use maven to build it to be jar file.(cmd:/usr/local/Cellar/maven/3.5.2/bin/mvn clean compile package)
+Since this is maven project, you should firtly use maven to build it to be jar file.(/usr/local/Cellar/maven/3.5.2/bin/mvn clean compile package)
 
 
