@@ -12,10 +12,10 @@ Since this is maven project, you should firtly use maven to build it to be jar f
 
 The following are the demo:
 a.Compile <br />
-<img src="screenshot/compile.png" width="50%" height="50%" /> <br />
+<img src="screenshots/compile.png" width="50%" height="50%" /> <br />
 
 b.Bash <br />
-<img src="screenshot/bash.png" width="50%" height="50%" /> <br />
+<img src="screenshots/bash.png" width="50%" height="50%" /> <br />
 
 c.Examples: <br />
 <img src="screenshots/demo1.png" width="50%" height="50%" /> <br />
