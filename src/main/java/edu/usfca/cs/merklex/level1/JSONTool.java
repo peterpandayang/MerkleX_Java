@@ -4,11 +4,12 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class JSONTool {
 
-    public static void main(String[] args){
+    public static void main(String[] args) throws FileNotFoundException {
         Scanner scanner = new Scanner(System.in);
         String line = "";
 
@@ -41,7 +42,16 @@ public class JSONTool {
         }
     }
 
-    private static void queryData(File file, String query){
+    private static void queryData(File file, String query) throws FileNotFoundException {
+        Scanner input = new Scanner(file);
+        StringBuilder sb = new StringBuilder();
+
+        while (input.hasNextLine()) {
+            sb.append(input.nextLine());
+        }
+
+        System.out.println(sb.toString());
+
         JSONParser parser = new JSONParser();
         JSONObject jsonObject = null;
     }
