@@ -28,6 +28,11 @@
     </properties>
 
     <build>
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+            </resource>
+        </resources>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -36,7 +41,6 @@
                 <configuration>
                     <source>${jdk.version}</source>
                     <target>${jdk.version}</target>
-
                     <compilerArgument>-Xlint:all</compilerArgument>
                     <compilerArgument>-Xpkginfo:always</compilerArgument>
                     <showDeprecation>true</showDeprecation>
