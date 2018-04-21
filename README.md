@@ -18,10 +18,10 @@ b.Bash <br />
 <img src="screenshot/bash.png" width="50%" height="50%" /> <br />
 
 c.Examples: <br />
-<img src="screenshot/demo1.png" width="50%" height="50%" /> <br />
-<img src="screenshot/demo2.png" width="50%" height="50%" /> <br />
-<img src="screenshot/demo3.png" width="50%" height="50%" /> <br />
-<img src="screenshot/demo4.png" width="50%" height="50%" /> <br />
+<img src="screenshots/demo1.png" width="50%" height="50%" /> <br />
+<img src="screenshots/demo2.png" width="50%" height="50%" /> <br />
+<img src="screenshots/demo3.png" width="50%" height="50%" /> <br />
+<img src="screenshots/demo4.png" width="50%" height="50%" /> <br />
 
 
 
