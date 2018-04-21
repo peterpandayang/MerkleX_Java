@@ -1,4 +1,4 @@
-package edu.usfca.cs.merklex.level1;
+package edu.usfca.cs.merklex;
 
 import java.io.File;
 import java.util.Scanner;
