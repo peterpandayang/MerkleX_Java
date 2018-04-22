@@ -35,7 +35,7 @@ result: <br />
 Demo3: <br />
 file3.json: <br />
 <img src="screenshots/3.png" width="50%" height="50%" /> <br />
-result:
+result: <br />
 <img src="screenshots/demo3.png" width="50%" height="50%" /> <br />
 
 Demo4: <br />
