@@ -10,6 +10,29 @@ fi
 
 
 Tips:
-Since this is maven project, you can use maven to build it to be jar file.(cmd:/usr/local/Cellar/maven/3.5.2/bin/mvn clean compile package)
+Since this is maven project, you can use maven to build it to be jar file.(cmd:/usr/local/Cellar/maven/3.5.2/bin/mvn clean compile package)<br />
+
+The steps are like before:<br />
+Compile + bash <br />
+
+The following are the result for demo: <br/ >
+
+Run the bash: <br />
+<img src="screenshots/bash.png" width="50%" height="50%" /> <br />
+
+Demo1: <br />
+<img src="screenshots/demo1.png" width="50%" height="50%" /> <br />
+
+Demo2: <br />
+<img src="screenshots/demo2.png" width="50%" height="50%" /> <br />
+
+Demo3: <br />
+<img src="screenshots/demo3.png" width="50%" height="50%" /> <br />
+
+Demo4: <br />
+<img src="screenshots/demo4.png" width="50%" height="50%" /> <br />
+
+
+
 
 
